@@ -20,6 +20,7 @@ PIP_PACKAGES=(
 
 NODES=(
     "https://github.com/Acly/comfyui-tooling-nodes.git"
+    git clone https://github.com/Acly/comfyui-tooling-nodes.git
     
 )
 
