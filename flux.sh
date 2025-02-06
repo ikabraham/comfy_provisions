@@ -19,6 +19,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
+    "https://github.com/Acly/comfyui-tooling-nodes.git"
     
 )
 
